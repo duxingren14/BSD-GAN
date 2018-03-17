@@ -68,7 +68,7 @@ lsun: http://lsun.cs.princeton.edu/2017/
 
 # Experimental results:
 
-![celeba_hq256](https://github.com/duxingren14/BranchGAN/blob/master/face256.PNG)
+![celeba_hq256](https://github.com/duxingren14/BranchGAN/blob/master/face256.png)
 ![celeba_hq512](https://github.com/duxingren14/BranchGAN/blob/master/face512.png)
 ![car_400x300](https://github.com/duxingren14/BranchGAN/blob/master/car.png)
 ![lsun church_outdoor](https://github.com/duxingren14/BranchGAN/blob/master/lsun.png)
