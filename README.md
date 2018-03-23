@@ -1,9 +1,10 @@
 # BranchGAN
 Tensorflow implementation of BranchGAN
 
-<iframe width="560" height="315" src="https://arxiv.org/abs/1803.08467" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/syXtdQFz_yY" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
  # BranchGAN paper
-<a href="-----------------------">paper [not available yet]</a>
+<a href="https://arxiv.org/abs/1803.08467">paper [not available yet]</a>
 
 please cite the paper, if the codes/dataset has been used for your research.
 
