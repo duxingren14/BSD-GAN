@@ -2,7 +2,7 @@
 Tensorflow implementation of BranchGAN
 
 
-[![BranchGAN demo](https://img.youtube.com/vi/https://youtu.be/syXtdQFz_yY/0.jpg)](https://www.youtube.com/watch?v=syXtdQFz_yY&t=34s)
+[![BranchGAN demo](https://i.ytimg.com/vi/syXtdQFz_yY/1.jpg?time=1521770504792)](https://www.youtube.com/watch?v=syXtdQFz_yY&t=34s)
 
  # BranchGAN paper
 <a href="https://arxiv.org/abs/1803.08467">paper</a>
