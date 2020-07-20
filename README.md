@@ -1,17 +1,17 @@
-# BranchGAN
-Tensorflow implementation of BranchGAN
+# BSD-GAN
+Tensorflow implementation of BSD-GAN
 
 
-[![BranchGAN demo](https://i.ytimg.com/vi/syXtdQFz_yY/1.jpg?time=1521770504792)](https://www.youtube.com/watch?v=syXtdQFz_yY&t=34s)
+[![BSD-GAN demo](https://i.ytimg.com/vi/syXtdQFz_yY/1.jpg?time=1521770504792)](https://www.youtube.com/watch?v=syXtdQFz_yY&t=34s)
 
- # BranchGAN paper
+ # BSD-GAN paper
 <a href="https://arxiv.org/abs/1803.08467">paper</a>
 
 please cite the paper, if the codes/dataset has been used for your research.
 
-# results of BranchGAN
+# results of BSD-GAN
 
-![Scale-aware fusion](https://github.com/duxingren14/BranchGAN/blob/master/teaser.png)
+![Scale-aware fusion](https://github.com/duxingren14/BSD-GAN/blob/master/teaser.png)
 
 # How to setup
 
@@ -34,16 +34,16 @@ please cite the paper, if the codes/dataset has been used for your research.
 * clone this repo:
 
 ```
-git clone https://github.com/duxingren14/BranchGAN.git
+git clone https://github.com/duxingren14/BSD-GAN.git
 
-cd BranchGAN
+cd BSD-GAN
 
 mkdir data
 ```
 
 * download datasets (e.g., car) from <a href="https://drive.google.com/open?id=1cLvx0qECkgAV5rZGsrS30FtVOOOGkeim">google drive</a> and put it in ./data/.
 
-./BranchGAN/data/car_400x300/\*.jpg 
+./BSD-GAN/data/car_400x300/\*.jpg 
 
 
 * train the model:
@@ -70,10 +70,10 @@ lsun: http://lsun.cs.princeton.edu/2017/
 
 # Experimental results:
 
-![celeba_hq256](https://github.com/duxingren14/BranchGAN/blob/master/face256.png)
-![celeba_hq512](https://github.com/duxingren14/BranchGAN/blob/master/face512.png)
-![car_400x300](https://github.com/duxingren14/BranchGAN/blob/master/car.png)
-![lsun church_outdoor](https://github.com/duxingren14/BranchGAN/blob/master/lsun.png)
+![celeba_hq256](https://github.com/duxingren14/BSD-GAN/blob/master/face256.png)
+![celeba_hq512](https://github.com/duxingren14/BSD-GAN/blob/master/face512.png)
+![car_400x300](https://github.com/duxingren14/BSD-GAN/blob/master/car.png)
+![lsun church_outdoor](https://github.com/duxingren14/BSD-GAN/blob/master/lsun.png)
 
 # Acknowledgments
 
